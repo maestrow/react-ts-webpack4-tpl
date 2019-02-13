@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+}
+
+.header {
+    font-size: 33px;
+}
+
+.content {
+    border: 1px black solid;
+}

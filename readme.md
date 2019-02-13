@@ -21,3 +21,6 @@ Add webpack:
 
     npm i -D less less-loader style-loader css-loader
 
+### Step 3: Styleguidist
+
+    npm i -D react-styleguidist
